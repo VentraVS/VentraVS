@@ -18,8 +18,8 @@ Coding during the day, sketching at night – I'm all about **creativity + logic
 
 **Languages & Tools:**
 
-![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
 **Creative Tools:**
