@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">✨ Hey there, I’m Veena! ✨</h1>
+<h3 align="center">👩‍💻 2nd Year B.Tech | 🎨 Doodler @ Heart | 💡 Learning to Code & Create</h3>
 
-<!--
-**VentraVS/VentraVS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🌈 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hey! I'm a 2nd-year B.Tech student juggling sem deadlines, debugging errors, and doodling in the margins of my notes 👀✏️  
+Coding during the day, sketching at night – I'm all about **creativity + logic** 😉💻🎨
+
+- ✍️ Passionate about: Web dev, design, and digital art
+- 🌱 Learning: React, DSA, and how to draw hands (still hard lol)
+- ☕ Powered by: Chai, memes, and late-night motivation
+
+---
+
+### 🛠️ My Tech & Art Toolbox
+
+**Languages & Tools:**
+
+![C++](https://img.shields.io/badge/C++-blue?style=flat-square&logo=cplusplus)
+![Python](https://img.shields.io/badge/Python-yellow?style=flat-square&logo=python)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+
+**Creative Tools:**
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+
+---
+
+_“Code is poetry. Art is logic. Why not both?”_ 💖  
+Thanks for stopping by! 🎉
